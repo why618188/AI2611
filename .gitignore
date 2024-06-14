@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+
+test.py
+test_features.pkl
+train_features.pkl
+
+output/
+dataset/
